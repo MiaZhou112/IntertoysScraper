@@ -11,5 +11,6 @@ with Intertoyss() as bot:
     time.sleep(10)
 
 print('hello')
+print("i hate it")
 
 
