@@ -10,4 +10,6 @@ with Intertoyss() as bot:
     bot.create_dateframe()
     time.sleep(10)
 
+print('hello')
+
 
