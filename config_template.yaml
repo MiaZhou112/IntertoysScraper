@@ -1,0 +1,12 @@
+SCREENSHOTS_PATH: The path where screenshots are stored.
+DRIVER_PATH: The path where chrome driver is stored.
+QUERY: The kind of games you want to search for. For example, Mario game.
+DATABASE_URI: The path to your database. 
+DATABASE_TABLE: The table that will be stored in your database. 
+HOST: local host.
+DATABASE: Name of your database.
+PORT: The port number that defaults to 5432 if it is not provided.
+PASSWORD: Password used to authenticate.
+USER: username
+EXCEL_FILENAME: The Excel file name 
+

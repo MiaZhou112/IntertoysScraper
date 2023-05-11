@@ -1,0 +1,7 @@
+chromedriver_mac64/
+*__pycache__
+*.DS_store
+*.xlsx
+*.png
+config.yaml
+Screenshots/
